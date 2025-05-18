@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ArtikalForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KupacForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GlavnaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MestoForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PorudzbenicaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RadSaArtiklima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RadSaKupcimaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RadSaMestimaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RadSaPorudzbenicamaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RadSaStrucnomSpremom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StrucnaSpremaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

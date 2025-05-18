@@ -1,0 +1,17 @@
+C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\bin\Debug\net8.0\PoslovnaLogika.deps.json
+C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\bin\Debug\net8.0\PoslovnaLogika.dll
+C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\bin\Debug\net8.0\PoslovnaLogika.pdb
+C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\bin\Debug\net8.0\BrokerBazePodataka.dll
+C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\bin\Debug\net8.0\Domain.dll
+C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\bin\Debug\net8.0\BrokerBazePodataka.pdb
+C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\bin\Debug\net8.0\Domain.pdb
+C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\obj\Debug\net8.0\PoslovnaLogika.csproj.AssemblyReference.cache
+C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\obj\Debug\net8.0\PoslovnaLogika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\obj\Debug\net8.0\PoslovnaLogika.AssemblyInfoInputs.cache
+C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\obj\Debug\net8.0\PoslovnaLogika.AssemblyInfo.cs
+C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\obj\Debug\net8.0\PoslovnaLogika.csproj.CoreCompileInputs.cache
+C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\obj\Debug\net8.0\Poslovna.5AADE7AF.Up2Date
+C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\obj\Debug\net8.0\PoslovnaLogika.dll
+C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\obj\Debug\net8.0\refint\PoslovnaLogika.dll
+C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\obj\Debug\net8.0\PoslovnaLogika.pdb
+C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\obj\Debug\net8.0\ref\PoslovnaLogika.dll

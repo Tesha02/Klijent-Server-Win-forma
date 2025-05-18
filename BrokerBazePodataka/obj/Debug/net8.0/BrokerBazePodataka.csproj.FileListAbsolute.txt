@@ -1,0 +1,15 @@
+C:\Users\MI-Store\source\repos\Projekat\BrokerBazePodataka\bin\Debug\net8.0\BrokerBazePodataka.deps.json
+C:\Users\MI-Store\source\repos\Projekat\BrokerBazePodataka\bin\Debug\net8.0\BrokerBazePodataka.dll
+C:\Users\MI-Store\source\repos\Projekat\BrokerBazePodataka\bin\Debug\net8.0\BrokerBazePodataka.pdb
+C:\Users\MI-Store\source\repos\Projekat\BrokerBazePodataka\bin\Debug\net8.0\Domain.dll
+C:\Users\MI-Store\source\repos\Projekat\BrokerBazePodataka\bin\Debug\net8.0\Domain.pdb
+C:\Users\MI-Store\source\repos\Projekat\BrokerBazePodataka\obj\Debug\net8.0\BrokerBazePodataka.csproj.AssemblyReference.cache
+C:\Users\MI-Store\source\repos\Projekat\BrokerBazePodataka\obj\Debug\net8.0\BrokerBazePodataka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MI-Store\source\repos\Projekat\BrokerBazePodataka\obj\Debug\net8.0\BrokerBazePodataka.AssemblyInfoInputs.cache
+C:\Users\MI-Store\source\repos\Projekat\BrokerBazePodataka\obj\Debug\net8.0\BrokerBazePodataka.AssemblyInfo.cs
+C:\Users\MI-Store\source\repos\Projekat\BrokerBazePodataka\obj\Debug\net8.0\BrokerBazePodataka.csproj.CoreCompileInputs.cache
+C:\Users\MI-Store\source\repos\Projekat\BrokerBazePodataka\obj\Debug\net8.0\BrokerBa.DEE5D1A1.Up2Date
+C:\Users\MI-Store\source\repos\Projekat\BrokerBazePodataka\obj\Debug\net8.0\BrokerBazePodataka.dll
+C:\Users\MI-Store\source\repos\Projekat\BrokerBazePodataka\obj\Debug\net8.0\refint\BrokerBazePodataka.dll
+C:\Users\MI-Store\source\repos\Projekat\BrokerBazePodataka\obj\Debug\net8.0\BrokerBazePodataka.pdb
+C:\Users\MI-Store\source\repos\Projekat\BrokerBazePodataka\obj\Debug\net8.0\ref\BrokerBazePodataka.dll
