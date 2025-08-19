@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrokerBazePodataka", "Broke
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PoslovnaLogika", "PoslovnaLogika\PoslovnaLogika.csproj", "{EEF7AE56-E891-4A23-A1A0-92BCDB913C18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zajednicki", "Zajednicki\Zajednicki.csproj", "{E6C6BE03-71D8-4997-BE01-750974624B28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zajednicki", "Zajednicki\Zajednicki.csproj", "{E6C6BE03-71D8-4997-BE01-750974624B28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Storage", "Storage\Storage.csproj", "{1251C550-D387-4729-BBD4-77D9104DD7D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{E6C6BE03-71D8-4997-BE01-750974624B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6C6BE03-71D8-4997-BE01-750974624B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6C6BE03-71D8-4997-BE01-750974624B28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1251C550-D387-4729-BBD4-77D9104DD7D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1251C550-D387-4729-BBD4-77D9104DD7D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1251C550-D387-4729-BBD4-77D9104DD7D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1251C550-D387-4729-BBD4-77D9104DD7D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

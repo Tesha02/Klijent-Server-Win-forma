@@ -8,7 +8,31 @@ namespace PoslovnaLogika
 	{
 		private Broker broker = new Broker();
 
-		
+		#region singlton
+		private static Kontroler instance;
+		private static object _lock = new object();
+		private Kontroler()
+		{
+			repository = new GenericRepository();
+		}
+		public static Controller Instance
+		{
+			get
+			{
+				if (instance == null)
+				{
+					lock (_lock)
+					{
+						if (instance == null)
+						{
+							instance = new Controller();
+						}
+					}
+				}
+				return instance;
+			}
+		}
+		#endregion
 
 		public void izbaciStavku(StavkaPorudzbenice sp)
 		{

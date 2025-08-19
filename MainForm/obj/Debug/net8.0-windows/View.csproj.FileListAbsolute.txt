@@ -68,3 +68,4 @@ C:\Users\MI-Store\source\repos\Projekat\MainForm\obj\Debug\net8.0-windows\View.P
 C:\Users\MI-Store\source\repos\Projekat\MainForm\obj\Debug\net8.0-windows\View.RadSaMestimaForma.resources
 C:\Users\MI-Store\source\repos\Projekat\MainForm\obj\Debug\net8.0-windows\View.RadSaStrucnomSpremom.resources
 C:\Users\MI-Store\source\repos\Projekat\MainForm\obj\Debug\net8.0-windows\View.StrucnaSpremaForma.resources
+C:\Users\MI-Store\source\repos\Projekat\MainForm\obj\Debug\net8.0-windows\View.sourcelink.json

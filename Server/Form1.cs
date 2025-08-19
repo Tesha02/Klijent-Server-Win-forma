@@ -6,12 +6,8 @@ namespace Server
 		{
 			InitializeComponent();
 			this.FormBorderStyle = FormBorderStyle.FixedToolWindow;
+		}
+
 		
-		}
-
-		private void Form1_Load(object sender, EventArgs e)
-		{
-
-		}
 	}
 }

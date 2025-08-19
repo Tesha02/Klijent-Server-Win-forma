@@ -15,3 +15,4 @@ C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\obj\Debug\net8.0\Poslovna
 C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\obj\Debug\net8.0\refint\PoslovnaLogika.dll
 C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\obj\Debug\net8.0\PoslovnaLogika.pdb
 C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\obj\Debug\net8.0\ref\PoslovnaLogika.dll
+C:\Users\MI-Store\source\repos\Projekat\PoslovnaLogika\obj\Debug\net8.0\PoslovnaLogika.sourcelink.json

@@ -1,0 +1,21 @@
+# Visual Studio fajlovi
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# Rider/JetBrains
+.idea/
+
+# Ostalo
+*.dbmdl
+*.mdf
+*.ldf

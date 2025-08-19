@@ -14,7 +14,7 @@ namespace Domain
 		public string Email { get; set; }
 		public string KontaktTelefon { get; set; }
 		public Mesto Mesto { get; set; }
-
+		public bool Ulogovan { get; set; }
 		public Kupac()
 		{
 		}

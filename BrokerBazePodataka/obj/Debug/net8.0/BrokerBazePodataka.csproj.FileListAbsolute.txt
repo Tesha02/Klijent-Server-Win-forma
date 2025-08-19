@@ -13,3 +13,4 @@ C:\Users\MI-Store\source\repos\Projekat\BrokerBazePodataka\obj\Debug\net8.0\Brok
 C:\Users\MI-Store\source\repos\Projekat\BrokerBazePodataka\obj\Debug\net8.0\refint\BrokerBazePodataka.dll
 C:\Users\MI-Store\source\repos\Projekat\BrokerBazePodataka\obj\Debug\net8.0\BrokerBazePodataka.pdb
 C:\Users\MI-Store\source\repos\Projekat\BrokerBazePodataka\obj\Debug\net8.0\ref\BrokerBazePodataka.dll
+C:\Users\MI-Store\source\repos\Projekat\BrokerBazePodataka\obj\Debug\net8.0\BrokerBazePodataka.sourcelink.json

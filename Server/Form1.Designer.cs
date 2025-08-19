@@ -43,7 +43,7 @@
 			btnStart.TabIndex = 0;
 			btnStart.Text = "Pokreni server";
 			btnStart.UseVisualStyleBackColor = true;
-			btnStart.Click += btnStart_Click;
+			
 			// 
 			// btnStop
 			// 
@@ -79,7 +79,6 @@
 			MaximizeBox = false;
 			Name = "Form1";
 			Text = "Form1";
-			Load += Form1_Load;
 			ResumeLayout(false);
 			PerformLayout();
 		}
